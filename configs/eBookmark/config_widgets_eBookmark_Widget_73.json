@@ -1,0 +1,24 @@
+{
+  "addbookmarks": true,
+  "bookmarks": [
+    {
+      "name": "Canada Sites",
+      "items": [
+        {
+          "name": "Toronto ,ON, Canada",
+          "extent": {
+            "xmin": -8925813.71001073,
+            "ymin": 5350137.228900861,
+            "xmax": -8748479.804389205,
+            "ymax": 5472436.474157084,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/2/widgets/eBookmark/images/thumbnail_default.png"
+        }
+      ],
+      "expanded": true
+    }
+  ]
+}
